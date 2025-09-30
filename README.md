@@ -58,4 +58,3 @@ AVAudioSession にある Category, Mode, CategoryOption を変更します。
 ## BGM/SE
 
 - [魔王魂](https://maoudamashii.jokersounds.com/)
-# AVAudioSession-Test
