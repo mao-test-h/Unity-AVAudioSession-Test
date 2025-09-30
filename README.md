@@ -1,4 +1,4 @@
-# AVAudioSession-Test
+# Unity-AVAudioSession-Test
 
 こちらは [CA.unity #10](https://cyberagent.connpass.com/event/366674/) と言うイベントで講演した「iOSプラットフォーム向けの開発Tips」にある「オーディオの制御について」の章のサンプルプロジェクトです。
 
